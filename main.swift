@@ -1,4 +1,7 @@
 /*
+Forked playground from https://developer.apple.com/documentation/realitykit/creating_a_photogrammetry_command-line_app
+Used for UROV photogrammetry of mock coral reefs for MATE competititon
+
 See LICENSE folder for this sample’s licensing information.
 
 Abstract:
